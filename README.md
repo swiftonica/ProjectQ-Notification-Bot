@@ -1,3 +1,2 @@
 # ProQNotificationsBot
-
-A description of this package.
+ProQ Notification Bot
